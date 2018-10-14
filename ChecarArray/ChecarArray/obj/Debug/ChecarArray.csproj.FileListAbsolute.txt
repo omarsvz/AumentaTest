@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\bin\Debug\ChecarArray.exe.config
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\bin\Debug\ChecarArray.exe
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\bin\Debug\ChecarArray.pdb
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\obj\Debug\ChecarArray.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\obj\Debug\ChecarArray.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\obj\Debug\ChecarArray.exe
+C:\Users\Omar\source\repos\ChecarArray\ChecarArray\obj\Debug\ChecarArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\bin\Debug\NumberosImpares.exe.config
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\bin\Debug\NumberosImpares.exe
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\bin\Debug\NumberosImpares.pdb
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\obj\Debug\NumerosImpares.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\obj\Debug\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\obj\Debug\NumberosImpares.exe
+C:\Users\Omar\source\repos\NumberosImpares\NumberosImpares\obj\Debug\NumberosImpares.pdb
